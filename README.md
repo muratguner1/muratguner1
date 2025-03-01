@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Murat Güner</h1>
-<h3 align="center">A software engineer student who is passionate about developing innovative software solutions and constantly improving their skills in this field.</h3>
+<h1 align="center">Hi, I'm Murat Güner</h1>
 
 - 🔭 I’m currently working on **Python**
 
