@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **machine learning with matlab.**
+- 🌱 I’m currently learning **deep learning.**
 
-- 📫 How to reach me **mg1096718@gmail.com**
+- 📫 How to reach me **muratguner360@gmail.com**
 
 <h3 class="markdown-heading" align="left">🌐 Socials:</h3>
 <p align="left">
