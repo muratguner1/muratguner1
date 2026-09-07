@@ -8,7 +8,7 @@ I enjoy turning complex problems into scalable real-world projects. 🚀
 
 ### 🔭 What I'm Working On
 
-* 🛒 **DoShoply:** A full-stack e-commerce web application.
+* 🛒 **Digital_ECommerce:** A full-stack e-commerce web application.
 * 📱 Developing cross-platform mobile applications with **Flutter**. 
 * 🌱 Learning more about **Deep Learning** concepts.
 
